@@ -105,7 +105,7 @@ for side in [-1,1]:
         x=-15.25+j*2.85; y=side*18.29; z=198
         points=[(x+1.17*math.cos(t*math.tau/40),y,z+.78*math.sin(t*math.tau/40)) for t in range(41)]
         stroke('OPPO ring '+str(side)+' '+str(j),points,side)
-        if letter=='p': stroke('OPPO stem '+str(side)+' '+str(j),[(x-1.17,y,z+.6),(x-1.17,y,z-1.8)],side)
+        if letter=='p': stroke('OPPO stem '+str(side)+' '+str(j),[(x+side*1.17,y,z+.6),(x+side*1.17,y,z-1.8)],side)
 
 for ob in scene.objects:
     ob.rotation_euler.z = math.pi/2
