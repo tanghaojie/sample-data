@@ -1,0 +1,13 @@
+{
+  "url": "https://sample-data-jt.vercel.app/chengdu-oppo-tower/chengdu-oppo-tower.glb",
+  "longitude": 104.07807,
+  "latitude": 30.51732,
+  "height": 0,
+  "scale": 1,
+  "heading": 0,
+  "pitch": 0,
+  "roll": 0,
+  "crs": "EPSG:4326",
+  "heightNote": "Ellipsoid-only display height; surveyed ground elevation unknown",
+  "source": "https://www.openstreetmap.org/way/1212154634"
+}
