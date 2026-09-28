@@ -1,0 +1,101 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v5.2.40",
+    "version": "2.0"
+  },
+  "bytes": 4311320,
+  "sha256": "513e5bf4db7e081894e1cc4b38ed5c3b0cd169199e91a18df7b3ef156cf765c4",
+  "meshCount": 23,
+  "materialCount": 23,
+  "triangles": 79416,
+  "positions": 158818,
+  "bounds": {
+    "min": [
+      -47,
+      0,
+      -47
+    ],
+    "max": [
+      47,
+      492,
+      47
+    ]
+  },
+  "extensions": [
+    "KHR_materials_emissive_strength"
+  ],
+  "emissive": [
+    {
+      "name": "Arc_Night_office_dim",
+      "factor": [
+        0.47999998927116394,
+        0.35999999195337296,
+        0.2303999897003175
+      ],
+      "strength": 1
+    },
+    {
+      "name": "Arc_Night_office_neutral",
+      "factor": [
+        0.6499999761581421,
+        0.8199999928474426,
+        1
+      ],
+      "strength": 1.2000000476837158
+    },
+    {
+      "name": "Arc_Night_office_warm",
+      "factor": [
+        1,
+        0.6600000262260437,
+        0.3199999928474426
+      ],
+      "strength": 1.7999999523162842
+    },
+    {
+      "name": "Night_crown_cool_white",
+      "factor": [
+        0.6399999856948853,
+        0.8199999928474426,
+        1
+      ],
+      "strength": 3
+    },
+    {
+      "name": "Night_lobby_warm",
+      "factor": [
+        1,
+        0.6899999976158142,
+        0.36000001430511475
+      ],
+      "strength": 1.399999976158142
+    },
+    {
+      "name": "Night_office_dim",
+      "factor": [
+        0.47999998927116394,
+        0.35999999195337296,
+        0.2303999897003175
+      ],
+      "strength": 1
+    },
+    {
+      "name": "Night_office_neutral",
+      "factor": [
+        0.6499999761581421,
+        0.8199999928474426,
+        1
+      ],
+      "strength": 1.2000000476837158
+    },
+    {
+      "name": "Night_office_warm",
+      "factor": [
+        1,
+        0.6600000262260437,
+        0.3199999928474426
+      ],
+      "strength": 1.7999999523162842
+    }
+  ]
+}

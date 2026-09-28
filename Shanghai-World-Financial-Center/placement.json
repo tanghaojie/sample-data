@@ -1,0 +1,12 @@
+{
+  "name": "上海环球金融中心 / Shanghai World Financial Center",
+  "url": "https://sample-data-jt.vercel.app/Shanghai-World-Financial-Center/shanghai-world-financial-center.glb",
+  "longitude": 121.50306,
+  "latitude": 31.23655,
+  "height": 0,
+  "scale": 1,
+  "heading": 0,
+  "pitch": 0,
+  "roll": 0,
+  "notes": "WGS84 approximate building center; height 0 is ellipsoid display placement, not surveyed elevation. Heading 0 is a visualization default; adjust against surveyed orientation if needed. Geo does not automatically read this file or GLB extras."
+}
