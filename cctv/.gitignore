@@ -1,0 +1,6 @@
+imgs/
+*.blend1
+*.log
+viewport.png
+mcp_client.py
+inspect_blender.py

@@ -1,0 +1,92 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v5.2.40",
+    "version": "2.0"
+  },
+  "bytes": 6328388,
+  "sha256": "4b8c69a469704aea6108c726717676b1630c3b08ffc6391cc2e98c91741e6023",
+  "meshCount": 23,
+  "materialCount": 23,
+  "triangles": 112464,
+  "positions": 224692,
+  "bounds": {
+    "min": [
+      -98,
+      -0.1868235468864441,
+      -91
+    ],
+    "max": [
+      101,
+      234.18646240234375,
+      94
+    ]
+  },
+  "extensions": [
+    "KHR_materials_emissive_strength"
+  ],
+  "emissive": [
+    {
+      "name": "11_Night_office_warm.002",
+      "factor": [
+        0.8999999761581421,
+        0.6389999637603765,
+        0.3689999870061875
+      ],
+      "strength": 1
+    },
+    {
+      "name": "12_Night_office_dim.002",
+      "factor": [
+        0.18000000715255737,
+        0.1440000078678132,
+        0.10080000443458559
+      ],
+      "strength": 1
+    },
+    {
+      "name": "13_Night_office_cool.002",
+      "factor": [
+        0.42900000131130156,
+        0.5589999887943264,
+        0.6499999761581421
+      ],
+      "strength": 1
+    },
+    {
+      "name": "14_Night_inner_facade_wash.002",
+      "factor": [
+        0.07700000199675561,
+        0.10639999911785125,
+        0.11200000214576722
+      ],
+      "strength": 1
+    },
+    {
+      "name": "15_Night_luminous_soffit.002",
+      "factor": [
+        0.42900000131130156,
+        0.5719999759197236,
+        0.5914999953508371
+      ],
+      "strength": 1
+    },
+    {
+      "name": "16_Night_lobby.002",
+      "factor": [
+        1,
+        0.7599999904632568,
+        0.4300000071525574
+      ],
+      "strength": 2.200000047683716
+    },
+    {
+      "name": "17_Night_landscape_luminaires.002",
+      "factor": [
+        1,
+        0.7200000286102295,
+        0.3499999940395355
+      ],
+      "strength": 3
+    }
+  ]
+}

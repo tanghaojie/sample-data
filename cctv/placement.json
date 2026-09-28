@@ -1,0 +1,12 @@
+{
+  "name": "CCTV Headquarters / 中央电视台总部大楼",
+  "url": "https://sample-data-jt.vercel.app/cctv/cctv-headquarters.glb",
+  "longitude": 116.4577,
+  "latitude": 39.9123,
+  "height": 0,
+  "scale": 1,
+  "heading": 0,
+  "pitch": 0,
+  "roll": 0,
+  "note": "WGS84 approximate building center. Height 0 and heading 0 are preview defaults, not surveyed site registration."
+}
