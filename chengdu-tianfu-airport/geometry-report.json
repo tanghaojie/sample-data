@@ -1,0 +1,938 @@
+{
+  "gates": [
+    {
+      "gate": 1,
+      "terminal": "T1",
+      "position": [
+        -391.37,
+        570.14,
+        7.7
+      ]
+    },
+    {
+      "gate": 2,
+      "terminal": "T1",
+      "position": [
+        -379.51,
+        485.8,
+        7.7
+      ]
+    },
+    {
+      "gate": 3,
+      "terminal": "T1",
+      "position": [
+        -380.52,
+        411.26,
+        7.7
+      ]
+    },
+    {
+      "gate": 4,
+      "terminal": "T1",
+      "position": [
+        -393.18,
+        346.05,
+        7.7
+      ]
+    },
+    {
+      "gate": 5,
+      "terminal": "T1",
+      "position": [
+        -416.26,
+        289.73,
+        7.7
+      ]
+    },
+    {
+      "gate": 6,
+      "terminal": "T1",
+      "position": [
+        -448.53,
+        241.82,
+        7.7
+      ]
+    },
+    {
+      "gate": 7,
+      "terminal": "T1",
+      "position": [
+        -488.75,
+        201.88,
+        7.7
+      ]
+    },
+    {
+      "gate": 8,
+      "terminal": "T1",
+      "position": [
+        -535.7,
+        169.44,
+        7.7
+      ]
+    },
+    {
+      "gate": 9,
+      "terminal": "T1",
+      "position": [
+        -588.15,
+        144.04,
+        7.7
+      ]
+    },
+    {
+      "gate": 10,
+      "terminal": "T1",
+      "position": [
+        -644.87,
+        125.24,
+        7.7
+      ]
+    },
+    {
+      "gate": 11,
+      "terminal": "T1",
+      "position": [
+        -704.63,
+        112.57,
+        7.7
+      ]
+    },
+    {
+      "gate": 12,
+      "terminal": "T1",
+      "position": [
+        -766.2,
+        105.57,
+        7.7
+      ]
+    },
+    {
+      "gate": 13,
+      "terminal": "T1",
+      "position": [
+        -828.35,
+        103.78,
+        7.7
+      ]
+    },
+    {
+      "gate": 14,
+      "terminal": "T1",
+      "position": [
+        -825.27,
+        28.39,
+        7.7
+      ]
+    },
+    {
+      "gate": 15,
+      "terminal": "T1",
+      "position": [
+        -759.2,
+        25.22,
+        7.7
+      ]
+    },
+    {
+      "gate": 16,
+      "terminal": "T1",
+      "position": [
+        -695.11,
+        11.44,
+        7.7
+      ]
+    },
+    {
+      "gate": 17,
+      "terminal": "T1",
+      "position": [
+        -634.06,
+        -12.37,
+        7.7
+      ]
+    },
+    {
+      "gate": 18,
+      "terminal": "T1",
+      "position": [
+        -577.06,
+        -45.63,
+        7.7
+      ]
+    },
+    {
+      "gate": 19,
+      "terminal": "T1",
+      "position": [
+        -525.15,
+        -87.75,
+        7.7
+      ]
+    },
+    {
+      "gate": 20,
+      "terminal": "T1",
+      "position": [
+        -479.38,
+        -138.12,
+        7.7
+      ]
+    },
+    {
+      "gate": 21,
+      "terminal": "T1",
+      "position": [
+        -440.76,
+        -196.18,
+        7.7
+      ]
+    },
+    {
+      "gate": 22,
+      "terminal": "T1",
+      "position": [
+        -410.33,
+        -261.33,
+        7.7
+      ]
+    },
+    {
+      "gate": 23,
+      "terminal": "T1",
+      "position": [
+        -389.13,
+        -332.97,
+        7.7
+      ]
+    },
+    {
+      "gate": 24,
+      "terminal": "T1",
+      "position": [
+        -378.19,
+        -410.53,
+        7.7
+      ]
+    },
+    {
+      "gate": 25,
+      "terminal": "T1",
+      "position": [
+        -378.54,
+        -493.4,
+        7.7
+      ]
+    },
+    {
+      "gate": 26,
+      "terminal": "T1",
+      "position": [
+        -391.22,
+        -581.01,
+        7.7
+      ]
+    },
+    {
+      "gate": 27,
+      "terminal": "T1",
+      "position": [
+        -277.94,
+        -596.48,
+        7.7
+      ]
+    },
+    {
+      "gate": 28,
+      "terminal": "T1",
+      "position": [
+        -268.13,
+        -561.63,
+        7.7
+      ]
+    },
+    {
+      "gate": 29,
+      "terminal": "T1",
+      "position": [
+        -258.94,
+        -526.33,
+        7.7
+      ]
+    },
+    {
+      "gate": 30,
+      "terminal": "T1",
+      "position": [
+        -250.36,
+        -490.61,
+        7.7
+      ]
+    },
+    {
+      "gate": 31,
+      "terminal": "T1",
+      "position": [
+        -242.4,
+        -454.49,
+        7.7
+      ]
+    },
+    {
+      "gate": 32,
+      "terminal": "T1",
+      "position": [
+        -235.06,
+        -418.03,
+        7.7
+      ]
+    },
+    {
+      "gate": 33,
+      "terminal": "T1",
+      "position": [
+        -228.33,
+        -381.25,
+        7.7
+      ]
+    },
+    {
+      "gate": 34,
+      "terminal": "T1",
+      "position": [
+        -222.23,
+        -344.18,
+        7.7
+      ]
+    },
+    {
+      "gate": 35,
+      "terminal": "T1",
+      "position": [
+        -224.24,
+        372.06,
+        7.7
+      ]
+    },
+    {
+      "gate": 36,
+      "terminal": "T1",
+      "position": [
+        -230.08,
+        404.88,
+        7.7
+      ]
+    },
+    {
+      "gate": 37,
+      "terminal": "T1",
+      "position": [
+        -236.44,
+        437.31,
+        7.7
+      ]
+    },
+    {
+      "gate": 38,
+      "terminal": "T1",
+      "position": [
+        -243.34,
+        469.33,
+        7.7
+      ]
+    },
+    {
+      "gate": 39,
+      "terminal": "T1",
+      "position": [
+        -250.76,
+        500.92,
+        7.7
+      ]
+    },
+    {
+      "gate": 40,
+      "terminal": "T1",
+      "position": [
+        -258.72,
+        532.03,
+        7.7
+      ]
+    },
+    {
+      "gate": 41,
+      "terminal": "T1",
+      "position": [
+        -267.21,
+        562.66,
+        7.7
+      ]
+    },
+    {
+      "gate": 42,
+      "terminal": "T1",
+      "position": [
+        -276.23,
+        592.76,
+        7.7
+      ]
+    },
+    {
+      "gate": 43,
+      "terminal": "T2",
+      "position": [
+        391.37,
+        570.14,
+        7.7
+      ]
+    },
+    {
+      "gate": 44,
+      "terminal": "T2",
+      "position": [
+        379.51,
+        485.8,
+        7.7
+      ]
+    },
+    {
+      "gate": 45,
+      "terminal": "T2",
+      "position": [
+        380.52,
+        411.26,
+        7.7
+      ]
+    },
+    {
+      "gate": 46,
+      "terminal": "T2",
+      "position": [
+        393.18,
+        346.05,
+        7.7
+      ]
+    },
+    {
+      "gate": 47,
+      "terminal": "T2",
+      "position": [
+        416.26,
+        289.73,
+        7.7
+      ]
+    },
+    {
+      "gate": 48,
+      "terminal": "T2",
+      "position": [
+        448.53,
+        241.82,
+        7.7
+      ]
+    },
+    {
+      "gate": 49,
+      "terminal": "T2",
+      "position": [
+        488.75,
+        201.88,
+        7.7
+      ]
+    },
+    {
+      "gate": 50,
+      "terminal": "T2",
+      "position": [
+        535.7,
+        169.44,
+        7.7
+      ]
+    },
+    {
+      "gate": 51,
+      "terminal": "T2",
+      "position": [
+        588.15,
+        144.04,
+        7.7
+      ]
+    },
+    {
+      "gate": 52,
+      "terminal": "T2",
+      "position": [
+        644.87,
+        125.24,
+        7.7
+      ]
+    },
+    {
+      "gate": 53,
+      "terminal": "T2",
+      "position": [
+        704.63,
+        112.57,
+        7.7
+      ]
+    },
+    {
+      "gate": 54,
+      "terminal": "T2",
+      "position": [
+        766.2,
+        105.57,
+        7.7
+      ]
+    },
+    {
+      "gate": 55,
+      "terminal": "T2",
+      "position": [
+        828.35,
+        103.78,
+        7.7
+      ]
+    },
+    {
+      "gate": 56,
+      "terminal": "T2",
+      "position": [
+        825.27,
+        28.39,
+        7.7
+      ]
+    },
+    {
+      "gate": 57,
+      "terminal": "T2",
+      "position": [
+        759.2,
+        25.22,
+        7.7
+      ]
+    },
+    {
+      "gate": 58,
+      "terminal": "T2",
+      "position": [
+        695.11,
+        11.44,
+        7.7
+      ]
+    },
+    {
+      "gate": 59,
+      "terminal": "T2",
+      "position": [
+        634.06,
+        -12.37,
+        7.7
+      ]
+    },
+    {
+      "gate": 60,
+      "terminal": "T2",
+      "position": [
+        577.06,
+        -45.63,
+        7.7
+      ]
+    },
+    {
+      "gate": 61,
+      "terminal": "T2",
+      "position": [
+        525.15,
+        -87.75,
+        7.7
+      ]
+    },
+    {
+      "gate": 62,
+      "terminal": "T2",
+      "position": [
+        479.38,
+        -138.12,
+        7.7
+      ]
+    },
+    {
+      "gate": 63,
+      "terminal": "T2",
+      "position": [
+        440.76,
+        -196.18,
+        7.7
+      ]
+    },
+    {
+      "gate": 64,
+      "terminal": "T2",
+      "position": [
+        410.33,
+        -261.33,
+        7.7
+      ]
+    },
+    {
+      "gate": 65,
+      "terminal": "T2",
+      "position": [
+        389.13,
+        -332.97,
+        7.7
+      ]
+    },
+    {
+      "gate": 66,
+      "terminal": "T2",
+      "position": [
+        378.19,
+        -410.53,
+        7.7
+      ]
+    },
+    {
+      "gate": 67,
+      "terminal": "T2",
+      "position": [
+        378.54,
+        -493.4,
+        7.7
+      ]
+    },
+    {
+      "gate": 68,
+      "terminal": "T2",
+      "position": [
+        391.22,
+        -581.01,
+        7.7
+      ]
+    },
+    {
+      "gate": 69,
+      "terminal": "T2",
+      "position": [
+        277.94,
+        -596.48,
+        7.7
+      ]
+    },
+    {
+      "gate": 70,
+      "terminal": "T2",
+      "position": [
+        268.13,
+        -561.63,
+        7.7
+      ]
+    },
+    {
+      "gate": 71,
+      "terminal": "T2",
+      "position": [
+        258.94,
+        -526.33,
+        7.7
+      ]
+    },
+    {
+      "gate": 72,
+      "terminal": "T2",
+      "position": [
+        250.36,
+        -490.61,
+        7.7
+      ]
+    },
+    {
+      "gate": 73,
+      "terminal": "T2",
+      "position": [
+        242.4,
+        -454.49,
+        7.7
+      ]
+    },
+    {
+      "gate": 74,
+      "terminal": "T2",
+      "position": [
+        235.06,
+        -418.03,
+        7.7
+      ]
+    },
+    {
+      "gate": 75,
+      "terminal": "T2",
+      "position": [
+        228.33,
+        -381.25,
+        7.7
+      ]
+    },
+    {
+      "gate": 76,
+      "terminal": "T2",
+      "position": [
+        222.23,
+        -344.18,
+        7.7
+      ]
+    },
+    {
+      "gate": 77,
+      "terminal": "T2",
+      "position": [
+        224.24,
+        372.06,
+        7.7
+      ]
+    },
+    {
+      "gate": 78,
+      "terminal": "T2",
+      "position": [
+        230.08,
+        404.88,
+        7.7
+      ]
+    },
+    {
+      "gate": 79,
+      "terminal": "T2",
+      "position": [
+        236.44,
+        437.31,
+        7.7
+      ]
+    },
+    {
+      "gate": 80,
+      "terminal": "T2",
+      "position": [
+        243.34,
+        469.33,
+        7.7
+      ]
+    },
+    {
+      "gate": 81,
+      "terminal": "T2",
+      "position": [
+        250.76,
+        500.92,
+        7.7
+      ]
+    },
+    {
+      "gate": 82,
+      "terminal": "T2",
+      "position": [
+        258.72,
+        532.03,
+        7.7
+      ]
+    },
+    {
+      "gate": 83,
+      "terminal": "T2",
+      "position": [
+        267.21,
+        562.66,
+        7.7
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "01_Standing_seam_silver_roof",
+      "vertices": 126264,
+      "faces": 42080
+    },
+    {
+      "name": "02_Raised_feather_titanium",
+      "vertices": 16848,
+      "faces": 4296
+    },
+    {
+      "name": "03_Aluminium_edge_fascia",
+      "vertices": 37368,
+      "faces": 9270
+    },
+    {
+      "name": "04_Roof_panel_seams",
+      "vertices": 304536,
+      "faces": 76134
+    },
+    {
+      "name": "05_Structural_steel",
+      "vertices": 234864,
+      "faces": 58480
+    },
+    {
+      "name": "06_Deep_recesses",
+      "vertices": 2988,
+      "faces": 884
+    },
+    {
+      "name": "07_Curtainwall_glass_0",
+      "vertices": 16368,
+      "faces": 4092
+    },
+    {
+      "name": "07_Curtainwall_glass_1",
+      "vertices": 6524,
+      "faces": 1632
+    },
+    {
+      "name": "07_Curtainwall_glass_2",
+      "vertices": 7486,
+      "faces": 1884
+    },
+    {
+      "name": "07_Curtainwall_glass_3",
+      "vertices": 3296,
+      "faces": 824
+    },
+    {
+      "name": "08_Night_terminal_lobby",
+      "vertices": 6240,
+      "faces": 1560
+    },
+    {
+      "name": "09_Night_gate_glass",
+      "vertices": 3664,
+      "faces": 916
+    },
+    {
+      "name": "10_Night_roof_edge",
+      "vertices": 13272,
+      "faces": 3318
+    },
+    {
+      "name": "11_Night_hotel_windows",
+      "vertices": 6720,
+      "faces": 1680
+    },
+    {
+      "name": "12_Night_landscape_lights",
+      "vertices": 10224,
+      "faces": 2556
+    },
+    {
+      "name": "13_Taxiway_green_luminaires",
+      "vertices": 3888,
+      "faces": 864
+    },
+    {
+      "name": "14_Apron_concrete",
+      "vertices": 24,
+      "faces": 6
+    },
+    {
+      "name": "15_Central_plaza_stone",
+      "vertices": 5064,
+      "faces": 1224
+    },
+    {
+      "name": "16_Concrete_expansion_joints",
+      "vertices": 2640,
+      "faces": 660
+    },
+    {
+      "name": "17_Road_asphalt",
+      "vertices": 13296,
+      "faces": 3324
+    },
+    {
+      "name": "18_Road_and_stand_white",
+      "vertices": 56712,
+      "faces": 14178
+    },
+    {
+      "name": "19_Airside_yellow",
+      "vertices": 8064,
+      "faces": 2016
+    },
+    {
+      "name": "20_Stand_safety_red",
+      "vertices": 15936,
+      "faces": 3984
+    },
+    {
+      "name": "21_Hotel_sandstone",
+      "vertices": 86808,
+      "faces": 21714
+    },
+    {
+      "name": "22_Terraced_roof_gardens",
+      "vertices": 6321,
+      "faces": 1773
+    },
+    {
+      "name": "23_Tree_canopy_0",
+      "vertices": 14560,
+      "faces": 3640
+    },
+    {
+      "name": "23_Tree_canopy_1",
+      "vertices": 21440,
+      "faces": 5360
+    },
+    {
+      "name": "23_Tree_canopy_2",
+      "vertices": 14560,
+      "faces": 3640
+    },
+    {
+      "name": "24_Tree_trunks",
+      "vertices": 11376,
+      "faces": 2528
+    },
+    {
+      "name": "25_Landscape_reflecting_water",
+      "vertices": 354,
+      "faces": 118
+    },
+    {
+      "name": "26_Aircraft_ceramic_white",
+      "vertices": 11664,
+      "faces": 2664
+    },
+    {
+      "name": "27_Aircraft_engine_dark",
+      "vertices": 2592,
+      "faces": 504
+    },
+    {
+      "name": "28_Aircraft_livery_0",
+      "vertices": 48,
+      "faces": 12
+    },
+    {
+      "name": "28_Aircraft_livery_1",
+      "vertices": 48,
+      "faces": 12
+    },
+    {
+      "name": "28_Aircraft_livery_2",
+      "vertices": 120,
+      "faces": 30
+    },
+    {
+      "name": "29_Vehicle_tyres",
+      "vertices": 22464,
+      "faces": 4680
+    },
+    {
+      "name": "30_Vehicle_paint",
+      "vertices": 1632,
+      "faces": 408
+    }
+  ]
+}

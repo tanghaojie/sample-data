@@ -1,0 +1,14 @@
+{
+  "url": "https://sample-data-jt.vercel.app/chengdu-tianfu-airport/chengdu-tianfu-airport.glb",
+  "longitude": 104.441,
+  "latitude": 30.313,
+  "height": 0,
+  "scale": 1,
+  "heading": 0,
+  "pitch": 0,
+  "roll": 0,
+  "coordinateSystem": "WGS84",
+  "note": "Approximate terminal-area location. Ellipsoid height 0 is for display with terrain disabled. Heading and precise site registration require survey calibration.",
+  "dayPreviewUTC": "2026-09-30T04:00:00Z",
+  "nightPreviewUTC": "2026-09-30T12:00:00Z"
+}

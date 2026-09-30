@@ -1,0 +1,6 @@
+*.blend1
+*.blend2
+*.log
+reference-contact.jpg
+viewport.png
+__pycache__/

@@ -1,0 +1,85 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v5.2.40",
+    "version": "2.0"
+  },
+  "bytes": 27331088,
+  "sha256": "77d0d2ea711997c0ee28e6c54a62acbe2391fbf736a63804705fbc34451ff0a4",
+  "meshCount": 37,
+  "materialCount": 37,
+  "triangles": 525239,
+  "vertices": 929105,
+  "gates": 83,
+  "bounds": {
+    "min": [
+      -1050,
+      0,
+      -870
+    ],
+    "max": [
+      1050,
+      37.9317741394043,
+      870
+    ]
+  },
+  "extensionsUsed": [
+    "KHR_materials_emissive_strength"
+  ],
+  "extensionsRequired": [],
+  "emissive": [
+    {
+      "name": "08_Night_terminal_lobby.001",
+      "factor": [
+        1,
+        0.6700000166893005,
+        0.3199999928474426
+      ],
+      "strength": 1.7000000476837158
+    },
+    {
+      "name": "09_Night_gate_glass.001",
+      "factor": [
+        0.25300001007318507,
+        0.4234999986886976,
+        0.550000011920929
+      ],
+      "strength": 1
+    },
+    {
+      "name": "10_Night_roof_edge.001",
+      "factor": [
+        0.5,
+        0.7599999904632568,
+        1
+      ],
+      "strength": 2.5
+    },
+    {
+      "name": "11_Night_hotel_windows.001",
+      "factor": [
+        1,
+        0.6399999856948853,
+        0.2800000011920929
+      ],
+      "strength": 1.399999976158142
+    },
+    {
+      "name": "12_Night_landscape_lights.001",
+      "factor": [
+        1,
+        0.7200000286102295,
+        0.38999998569488525
+      ],
+      "strength": 3.200000047683716
+    },
+    {
+      "name": "13_Taxiway_green_luminaires.001",
+      "factor": [
+        0.05000000074505806,
+        1,
+        0.25999999046325684
+      ],
+      "strength": 3
+    }
+  ]
+}
