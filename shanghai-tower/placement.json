@@ -1,0 +1,17 @@
+{
+  "name": "上海中心大厦 / Shanghai Tower",
+  "url": "https://sample-data-jt.vercel.app/shanghai-tower/shanghai-tower.glb",
+  "coordinateReferenceSystem": "WGS84",
+  "longitude": 121.5011,
+  "latitude": 31.23356,
+  "ellipsoidHeightMeters": 0,
+  "scale": 1,
+  "headingDegrees": 0,
+  "pitchDegrees": 0,
+  "rollDegrees": 0,
+  "units": "meters",
+  "heightMeters": 632,
+  "dayPreviewUtc": "2026-10-01T04:00:00Z",
+  "nightPreviewUtc": "2026-10-01T12:00:00Z",
+  "note": "Approximate landmark placement; adjust ellipsoid height to the chosen terrain. Standard glTF Y-up exported from ground-centred Blender Z-up."
+}

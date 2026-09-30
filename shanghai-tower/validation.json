@@ -1,0 +1,100 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v5.2.40",
+    "version": "2.0"
+  },
+  "bytes": 33589200,
+  "sha256": "af69cf4c9100333537df90050e4e9a8f5c88168a00b130eeaa4fc271ebb0bdb8",
+  "meshes": 79,
+  "materials": 29,
+  "positions": 1149391,
+  "triangles": 596676,
+  "boundsGltfYUp": {
+    "min": [
+      -100.04499053955078,
+      0,
+      -84.04499816894531
+    ],
+    "max": [
+      116.04499053955078,
+      632.0115356445312,
+      94.04499816894531
+    ]
+  },
+  "extensionsUsed": [
+    "KHR_materials_clearcoat",
+    "KHR_materials_emissive_strength"
+  ],
+  "emissive": [
+    {
+      "name": "Night / lobby and sky garden.001",
+      "factor": [
+        1,
+        0.7699999809265137,
+        0.4699999988079071
+      ],
+      "strength": 1.7000000476837158
+    },
+    {
+      "name": "Night / crown pearl light.001",
+      "factor": [
+        0.6800000071525574,
+        0.8799999952316284,
+        1
+      ],
+      "strength": 2.200000047683716
+    },
+    {
+      "name": "Night / occupied office amber.001",
+      "factor": [
+        1,
+        0.7200000286102295,
+        0.4000000059604645
+      ],
+      "strength": 1
+    },
+    {
+      "name": "Night / office cool white.001",
+      "factor": [
+        0.48800001871585863,
+        0.6400000190734865,
+        0.800000011920929
+      ],
+      "strength": 1
+    },
+    {
+      "name": "Night / office subdued.001",
+      "factor": [
+        0.25999999046325684,
+        0.2157999877452852,
+        0.1611999953269958
+      ],
+      "strength": 1
+    },
+    {
+      "name": "Night / plaza luminaires.001",
+      "factor": [
+        1,
+        0.6800000071525574,
+        0.3199999928474426
+      ],
+      "strength": 3
+    },
+    {
+      "name": "Night / restrained spiral edge.001",
+      "factor": [
+        0.26399999982118594,
+        0.3850000017881392,
+        0.550000011920929
+      ],
+      "strength": 1
+    }
+  ],
+  "externalDependencies": 0,
+  "presentationLights": 0,
+  "presentationCameras": 0,
+  "khronos": {
+    "errors": 0,
+    "warnings": 0
+  }
+}
