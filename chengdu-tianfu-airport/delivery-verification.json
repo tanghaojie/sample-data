@@ -1,0 +1,24 @@
+{
+  "verifiedAtUTC": "2026-09-30T09:46:00Z",
+  "assetCommit": "3d4700dbc2ef82147bb485975eff9148745f843b",
+  "repository": "https://github.com/tanghaojie/sample-data",
+  "vercelState": "success",
+  "vercelDescription": "Deployment has completed",
+  "vercelDeployment": "https://vercel.com/tanghaojies-projects/sample-data/F5PekMHfTgB9ARRjmChAs7n8Npfk",
+  "assetURL": "https://sample-data-jt.vercel.app/chengdu-tianfu-airport/chengdu-tianfu-airport.glb",
+  "httpStatus": 200,
+  "contentType": "model/gltf-binary",
+  "cors": "*",
+  "bytes": 27331088,
+  "remoteSHA256": "77d0d2ea711997c0ee28e6c54a62acbe2391fbf736a63804705fbc34451ff0a4",
+  "matchesLocalAsset": true,
+  "khronosValidator": {"errors": 0, "warnings": 0, "infos": 0, "hints": 0},
+  "blenderRenders": ["preview-day.png", "preview-night.png", "preview-detail.png", "preview-plan.png"],
+  "chromeGeo": {
+    "opened": true,
+    "externalDataPanelInspected": true,
+    "modelLoaded": false,
+    "dayNightVisuallyVerified": false,
+    "blocker": "Chrome extension became unavailable. Windows Computer Use stopped because the current browser URL could not be reliably determined."
+  }
+}

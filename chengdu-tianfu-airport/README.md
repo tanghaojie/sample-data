@@ -34,6 +34,7 @@ Blender 米制 Z-up，导出标准 glTF Y-up。地面原点高度为 0，模型�
 
 ## 验证状态
 
+- 已推送 GitHub 并确认 Vercel 自动发布成功；线上 GLB 返回 HTTP 200、`model/gltf-binary`、跨域允许 `*`，27,331,088 字节及 SHA-256 与本地完全一致。详见 `delivery-verification.json`。
 - Khronos glTF Validator：0 错误、0 警告、0 提示。
 - 检查二进制结构、有限坐标、法线长度、索引范围、米制包围盒与原点、材质发光、83 组登机桥数量；通过。
 - Blender 最终四张渲染图已生成并视觉检查。
