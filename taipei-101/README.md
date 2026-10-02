@@ -31,6 +31,15 @@ Use `placement.json` with the [online GLB](https://sample-data-jt.vercel.app/tai
 - `render_preview.py`: Cycles day/night, detail, podium and elevation renders.
 - `preview-*.png`: portfolio images.
 - `validation.json`, `gltf-validator-report.json`: geometry checks and Khronos validator evidence.
-- `delivery-verification.json`, `geo-online-*.jpg`: separate publication/Chrome evidence.
+- `delivery-verification.json`, `geo-online-*.png`: separate publication/Chrome evidence.
+- `verify_delivery.py`: repeatable Vercel status and deployed-file hash checks.
+
+## Verified delivery
+
+Khronos validation: 0 errors, 0 warnings. The 15,419,900-byte GLB contains 391,584 triangles, 220 material/part meshes, 25 materials and eight emissive channels. There are no external asset dependencies or exported presentation cameras/lights.
+
+Model commit `0e4fa28fc84f0c48117f26951953bfd602e9503d` was pushed to `master`; Vercel reported successful deployment. The public endpoint returned HTTP 200, `model/gltf-binary`, CORS `*`, and SHA-256 `e303e71be0efc1c49490f92b330892ad76f45249958265fd4e7aaae91a52deb1`, matching the local GLB.
+
+Chrome loaded the deployed GLB at WGS84 121.564472°, 25.033964°, scale 1. Geo explicitly recognised emissive material. Day (2026-10-02 03:43:14 UTC) and night (12:43:14 UTC) were visually inspected with the same camera: daytime windows unlit, night occupied windows/terrace rims/pinnacle/retail emissive. Screenshots preserve the Geo workspace and simulation-clock context. The night display tab is retained; loaded resources remain session-scoped by the Geo design.
 
 Rebuild: `blender --background --python build_model.py`. Render: `blender --background taipei-101.blend --python render_preview.py -- all`. Validate with `node validate_glb.cjs` after making `gltf-validator` available through `NODE_PATH`.
