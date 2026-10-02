@@ -1,0 +1,17 @@
+{
+  "name": "台北101大厦 / Taipei 101",
+  "url": "https://sample-data-jt.vercel.app/taipei-101/taipei-101.glb",
+  "coordinateReferenceSystem": "WGS84",
+  "longitude": 121.564472,
+  "latitude": 25.033964,
+  "ellipsoidHeightMeters": 0,
+  "scale": 1,
+  "headingDegrees": 0,
+  "pitchDegrees": 0,
+  "rollDegrees": 0,
+  "units": "meters",
+  "heightMeters": 508,
+  "dayPreviewUtc": "2026-10-02T04:00:00Z",
+  "nightPreviewUtc": "2026-10-02T12:00:00Z",
+  "note": "Approximate landmark coordinates and orientation, not surveyed. Adjust ellipsoid height to terrain. Ground-centred Blender Z-up exported as standard glTF Y-up."
+}

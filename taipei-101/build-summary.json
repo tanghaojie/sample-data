@@ -1,0 +1,14 @@
+{
+  "height_m": 508,
+  "main_modules": 8,
+  "floors_per_module": 8,
+  "main_module_range_m": [
+    116,
+    390
+  ],
+  "roof_m": 448,
+  "spire_m": 60,
+  "mesh_count": 220,
+  "materials": 25,
+  "faces": 162132
+}

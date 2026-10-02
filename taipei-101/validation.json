@@ -1,0 +1,109 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v5.2.40",
+    "version": "2.0"
+  },
+  "bytes": 15419900,
+  "sha256": "e303e71be0efc1c49490f92b330892ad76f45249958265fd4e7aaae91a52deb1",
+  "meshes": 220,
+  "materials": 25,
+  "positions": 530668,
+  "triangles": 391584,
+  "boundsGltfYUp": {
+    "min": [
+      -108,
+      -0.009999997913837433,
+      -50
+    ],
+    "max": [
+      60,
+      508,
+      104
+    ]
+  },
+  "extensionsUsed": [
+    "KHR_materials_clearcoat",
+    "KHR_materials_emissive_strength"
+  ],
+  "emissive": [
+    {
+      "name": "Night dragon lantern amber.001",
+      "factor": [
+        1,
+        0.6200000047683716,
+        0.25999999046325684
+      ],
+      "strength": 2.200000047683716
+    },
+    {
+      "name": "Night office cool.001",
+      "factor": [
+        0.4159999754428867,
+        0.5459999629259116,
+        0.6499999761581421
+      ],
+      "strength": 1
+    },
+    {
+      "name": "Night office low occupancy.001",
+      "factor": [
+        0.25,
+        0.20000000298023224,
+        0.14249999821186066
+      ],
+      "strength": 1
+    },
+    {
+      "name": "Night office warm.001",
+      "factor": [
+        0.8999999761581421,
+        0.6659999909400938,
+        0.4139999965429304
+      ],
+      "strength": 1
+    },
+    {
+      "name": "Night plaza lamps.001",
+      "factor": [
+        1,
+        0.6399999856948853,
+        0.2800000011920929
+      ],
+      "strength": 2.799999952316284
+    },
+    {
+      "name": "Night architectural cornice champagne.001",
+      "factor": [
+        1,
+        0.7300000190734863,
+        0.38999998569488525
+      ],
+      "strength": 1.5
+    },
+    {
+      "name": "Night retail warm interior.001",
+      "factor": [
+        1,
+        0.7300000190734863,
+        0.4300000071525574
+      ],
+      "strength": 1.2999999523162842
+    },
+    {
+      "name": "Night pinnacle pearl.001",
+      "factor": [
+        0.6100000143051147,
+        0.8500000238418579,
+        1
+      ],
+      "strength": 1.600000023841858
+    }
+  ],
+  "externalDependencies": 0,
+  "presentationLights": 0,
+  "presentationCameras": 0,
+  "khronos": {
+    "errors": 0,
+    "warnings": 0
+  }
+}

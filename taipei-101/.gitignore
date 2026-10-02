@@ -1,0 +1,7 @@
+references/cylee-*.jpg
+references/structural-engineer-chapter.pdf
+references/*.png
+__pycache__/
+*.blend1
+draft-*.png
+render-*.log
