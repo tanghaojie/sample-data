@@ -31,7 +31,7 @@ Use `placement.json` with the [online GLB](https://sample-data-jt.vercel.app/tai
 - `render_preview.py`: Cycles day/night, detail, podium and elevation renders.
 - `preview-*.png`: portfolio images.
 - `validation.json`, `gltf-validator-report.json`: geometry checks and Khronos validator evidence.
-- `delivery-verification.json`, `geo-online-*.png`: separate publication/Chrome evidence.
+- `delivery-verification.json`, `geo-online-*.jpg`: separate publication/Chrome evidence.
 - `verify_delivery.py`: repeatable Vercel status and deployed-file hash checks.
 
 ## Verified delivery
