@@ -1,0 +1,47 @@
+{
+  "recipe_version": 1,
+  "release": "2026-09-23.1",
+  "input_provenance": {
+    "buildings": {
+      "release": "2026-09-23.1",
+      "sha256": "48dd57376a0fb182792479576b4f4177e4bbbbc5ccf424b5ed40c2162e73e400"
+    },
+    "parts": {
+      "release": "2026-09-23.1",
+      "sha256": "be0e5fb7f7a27408b594d21a3546ba33f64d8e4f9a8dc99e2d630961193c25fc"
+    }
+  },
+  "source_buildings": 8627,
+  "source_parts": 1760,
+  "source_datasets": [
+    "OpenStreetMap",
+    "doi:10.5281/zenodo.8174931"
+  ],
+  "license": "ODbL-1.0",
+  "sources_license_details": "https://docs.overturemaps.org/attribution/",
+  "stats": {
+    "included_buildings": 5821,
+    "type_estimate": 4278,
+    "source_height": 346,
+    "floors_estimate": 2138,
+    "parts_residual_estimate": 32,
+    "small_footprints_skipped": 105,
+    "underground_skipped": 7,
+    "nonflat_roofs_approximated": 30,
+    "excluded_buildings": 1,
+    "excluded_parts": 31
+  },
+  "rendered_pieces": 6794,
+  "tiles": 52,
+  "triangles": {
+    "fine": 116620,
+    "coarse": 89864
+  },
+  "warnings": [],
+  "limitations": [
+    "Missing heights estimated; source_height is not a surveyed accuracy claim",
+    "Nonflat roofs approximated as flat",
+    "Terrain must be the WGS84 ellipsoid surface",
+    "Procedural facades and static window distribution; no real artificial-light transport"
+  ]
+}

@@ -1,0 +1,6 @@
+numpy==2.5.3
+shapely==2.1.2
+pyproj==3.8.0
+mapbox-earcut==2.1.0
+Pillow==12.3.0
+overturemaps==1.0.2

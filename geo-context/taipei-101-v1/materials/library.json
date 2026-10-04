@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "name": "office",
+      "span_m": [
+        12,
+        12
+      ],
+      "emissive": true
+    },
+    {
+      "name": "residential",
+      "span_m": [
+        12,
+        12
+      ],
+      "emissive": true
+    },
+    {
+      "name": "concrete",
+      "span_m": [
+        12,
+        12
+      ],
+      "emissive": true
+    },
+    {
+      "name": "brick",
+      "span_m": [
+        12,
+        12
+      ],
+      "emissive": true
+    },
+    {
+      "name": "commercial",
+      "span_m": [
+        12,
+        12
+      ],
+      "emissive": true
+    },
+    {
+      "name": "roof",
+      "span_m": [
+        16,
+        16
+      ],
+      "emissive": false
+    }
+  ]
+}

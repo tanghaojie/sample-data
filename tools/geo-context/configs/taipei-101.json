@@ -1,0 +1,26 @@
+{
+  "id": "taipei-101-v1",
+  "label": "台北 101 · 信义街区",
+  "longitude_wgs84": 121.564472,
+  "latitude_wgs84": 25.033964,
+  "radius_m": 1400,
+  "tile_size_m": 400,
+  "release": "2026-09-23.1",
+  "model_url": "https://sample-data-jt.vercel.app/taipei-101/taipei-101.glb",
+  "exclude_building_ids": ["6ecf1ca2-e553-4d80-910a-f99317ddf0fb"],
+  "height_overrides_m": {},
+  "minimum_footprint_m2": 12,
+  "height_defaults_m": {
+    "apartments": 15,
+    "residential": 12,
+    "house": 6,
+    "office": 18,
+    "commercial": 9,
+    "industrial": 8,
+    "school": 12,
+    "hospital": 15,
+    "roof": 4,
+    "shelter": 3,
+    "default": 9
+  }
+}

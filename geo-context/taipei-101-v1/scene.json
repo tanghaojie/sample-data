@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "id": "taipei-101-v1",
+  "label": "台北 101 · 信义街区",
+  "anchor": {
+    "longitude_wgs84": 121.564472,
+    "latitude_wgs84": 25.033964
+  },
+  "model": {
+    "url": "https://sample-data-jt.vercel.app/taipei-101/taipei-101.glb"
+  },
+  "context": {
+    "url": "tileset.json",
+    "terrain": "ellipsoid",
+    "maximum_anchor_distance_m": 5
+  },
+  "attribution": [
+    {
+      "text": "© OpenStreetMap contributors",
+      "url": "https://www.openstreetmap.org/copyright"
+    },
+    {
+      "text": "Overture Maps Foundation · ODbL",
+      "url": "https://docs.overturemaps.org/attribution/"
+    },
+    {
+      "text": "Qian Shi et al. · East Asian Buildings (CC BY 4.0)",
+      "url": "https://doi.org/10.5281/zenodo.8174931"
+    }
+  ],
+  "notice": "真实建筑轮廓；缺失高度采用楼层/类型估算，立面和窗灯为程序化近似。周边按椭球体地形生成。"
+}
