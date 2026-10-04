@@ -1,0 +1,23 @@
+{
+  "modelCommit": "88928341ace774e930a94453eb1566dc21124780",
+  "githubRepository": "https://github.com/tanghaojie/sample-data",
+  "deployment": "https://vercel.com/tanghaojies-projects/sample-data/Fp9hPnLADKjtVz3hk9YCgu4MM5R7",
+  "vercelState": "success",
+  "glbUrl": "https://sample-data-jt.vercel.app/shanghai-tower/shanghai-tower.glb",
+  "httpStatus": 200,
+  "contentType": "model/gltf-binary",
+  "cors": "*",
+  "bytes": 33589200,
+  "sha256": "af69cf4c9100333537df90050e4e9a8f5c88168a00b130eeaa4fc271ebb0bdb8",
+  "browser": "Chrome",
+  "page": "https://cyber-sight-geo.vercel.app/geo.html",
+  "browserLoad": "verified",
+  "emissiveRecognition": "Geo reported emissive materials detected",
+  "dayScreenshot": "geo-online-day.jpg",
+  "daySimulationUtc": "2026-09-30T03:59:51Z",
+  "nightScreenshot": "geo-online-night.jpg",
+  "nightSimulationUtc": "2026-09-30T11:59:35Z",
+  "dayNightTransition": "Visually verified: daylight windows unlit, night windows and accents emissive",
+  "khronosErrors": 0,
+  "khronosWarnings": 0
+}
