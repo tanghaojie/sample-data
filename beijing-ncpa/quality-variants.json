@@ -1,0 +1,12 @@
+[
+  {
+    "quality": "balanced",
+    "file": "beijing-ncpa-balanced.glb",
+    "notes": "Reduced trees and small structural members"
+  },
+  {
+    "quality": "compatible",
+    "file": "beijing-ncpa-compatible.glb",
+    "notes": "Continuous titanium envelope, fewer interior ribs, reduced landscape; same primary silhouette and night channels"
+  }
+]

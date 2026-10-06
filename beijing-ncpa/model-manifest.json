@@ -1,0 +1,14 @@
+{
+  "building_dimensions_m": [
+    212.2,
+    143.64,
+    46.285
+  ],
+  "titaniumPanels": 19316,
+  "glassPanes": 1288,
+  "objects": 77,
+  "triangles_blender": 521840,
+  "materials": 28,
+  "modeling_basis": "Published dimensions; photograph/plan reconstruction. Facade partition, interior envelopes and landscape approximate.",
+  "export": "metres, Blender Z-up to glTF Y-up, ground-centre origin, self-contained GLB"
+}

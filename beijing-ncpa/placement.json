@@ -1,0 +1,21 @@
+{
+  "geo_metadata_version": 1,
+  "horizontal_crs": "EPSG:4326",
+  "vertical_reference": "WGS84_ELLIPSOID",
+  "longitude_wgs84": 116.38355,
+  "latitude_wgs84": 39.90334,
+  "coordinate_source": "OpenStreetMap way 4974233 building centre, cross-checked against Brown Archivision GPS; public reference, not surveyed",
+  "coordinate_accuracy": "approximate",
+  "height_source": "terrain_at_load",
+  "units": "meters",
+  "local_origin": "ground_waterline_datum_at_building_plan_center; arrival stairs extend to -4.9 m",
+  "height_m": 46.285,
+  "url": "https://sample-data-jt.vercel.app/beijing-ncpa/beijing-ncpa.glb",
+  "scale": 1,
+  "heading": 0,
+  "pitch": 0,
+  "roll": 0,
+  "orientation": "Calibrated root: glTF +X north, +Z east. North entrance toward +X.",
+  "manual_preview_height_m": 0,
+  "manual_preview_height_note": "0 is only for ellipsoid/no-terrain preview, not a measured elevation."
+}

@@ -1,0 +1,13 @@
+references/*.jpg
+references/*.png
+references/*.pdf
+references/*.html
+references/*-jina.txt
+references/geo-model-rendering-remote.md
+references/geo-model-authoring.md
+*.blend1
+*.log
+draft-*.png
+draft-*.glb
+__pycache__/
+node_modules/

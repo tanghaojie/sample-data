@@ -1,0 +1,94 @@
+{
+  "filename": "beijing-ncpa-compatible.glb",
+  "bytes": 12101904,
+  "sha256": "dc00ea7c24b2707ef99f58a5a8d3802fb6a836795835b8e391e0e725b117fcf7",
+  "triangles": 137305,
+  "vertices": 292429,
+  "meshes": 62,
+  "drawCalls": 62,
+  "materials": 23,
+  "images": 19,
+  "texturedPrimitives": 25,
+  "normalMappedPrimitives": 24,
+  "boundsGltfAfterRoot": {
+    "min": [
+      -201.00005334046602,
+      -4.900000095367432,
+      -196.00005334046602
+    ],
+    "max": [
+      201.00005334046602,
+      46.514564514160156,
+      196.00005334046602
+    ]
+  },
+  "envelopeDimensions_m": [
+    212.11002910920868,
+    143.64000344419082,
+    46.28499221801758
+  ],
+  "extensionsUsed": [
+    "KHR_materials_clearcoat",
+    "KHR_materials_emissive_strength"
+  ],
+  "externalDependencies": 0,
+  "presentationLights": 0,
+  "presentationCameras": 0,
+  "metadata": {
+    "geo_metadata_version": 1,
+    "horizontal_crs": "EPSG:4326",
+    "vertical_reference": "WGS84_ELLIPSOID",
+    "longitude_wgs84": 116.38355,
+    "latitude_wgs84": 39.90334,
+    "coordinate_source": "OpenStreetMap way 4974233 building centre, cross-checked against Brown Archivision GPS; public reference, not surveyed",
+    "coordinate_accuracy": "approximate",
+    "height_source": "terrain_at_load",
+    "units": "meters",
+    "local_origin": "ground_waterline_datum_at_building_plan_center; arrival stairs extend to -4.9 m",
+    "height_m": 46.285
+  },
+  "emissive": [
+    {
+      "name": "Night | arrival and landscape lamps",
+      "factor": [
+        1,
+        0.6399999856948853,
+        0.2800000011920929
+      ],
+      "strength": 3
+    },
+    {
+      "name": "Night | interior warm linear light",
+      "factor": [
+        1,
+        0.5699999928474426,
+        0.20999999344348907
+      ],
+      "strength": 3.200000047683716
+    },
+    {
+      "name": "Night | opera mesh backlight",
+      "factor": [
+        0.8500000238418579,
+        0.38250000059604616,
+        0.08500000365078453
+      ],
+      "strength": 1
+    },
+    {
+      "name": "Night | titanium star points",
+      "factor": [
+        0.7200000286102295,
+        0.8500000238418579,
+        1
+      ],
+      "strength": 5
+    }
+  ],
+  "khronos": {
+    "errors": 0,
+    "warnings": 0,
+    "infos": 37
+  },
+  "verifiedAtUtc": "2026-10-06T17:03:38.643Z"
+}
