@@ -11,3 +11,4 @@ draft-*.png
 draft-*.glb
 __pycache__/
 node_modules/
+*.zip

@@ -20,6 +20,12 @@
 
 三者共享同一坐标、朝向和尺寸。Scene 质量切换不会自动更换 GLB URL，按需要手动选择资产。预算统计、文件哈希与 Khronos 结果见 `validation.json`；主版本约 52 万面，场地与细密结构使其高于单体建议起点，平衡／兼容版供较弱设备选择，不承诺 FPS。
 
+![Cycles 夜景](renders/night.png)
+
+![Cycles 昼景](renders/day.png)
+
+[日落](renders/sunset.png) · [鸟瞰](renders/aerial.png) · [钛板与玻璃近景](renders/detail.png) · [水下入口](renders/entrance.png) · [北立面](renders/elevation.png)
+
 ## 地理参考和 Geo 使用
 
 唯一 `GEO_ROOT.extras` 内嵌规范 WGS84 字段：116.38355° E、39.90334° N，approximate，来源为 OpenStreetMap 建筑中心并交叉核对档案馆 GPS。绝对椭球高未知，未写入 `ellipsoid_height_m`；选择模型坐标时由 Geo 按当前地形采样。`height_m=46.285` 仅为建筑尺寸。
@@ -46,7 +52,11 @@
 - `render_preview.py`、`render_all.py`：Cycles 昼、夜、日落、鸟瞰、材质近景、入口与正立面图。
 - `validate_glb.cjs`、`*-khronos.json`、`validation.json`：官方验证、尺寸、纹理、朝向、定位和依赖检查。
 - `delivery-verification.json`：Git／Vercel／远端字节验证，与浏览器记录独立。
+- `renders/render-manifest.json`：七张 1800 × 1200 展示图及对应源工程、GLB 的哈希。
+- `make_delivery.py`：打包本地完整验收包，含可编辑源工程、三个 GLB、纹理、展示图及保存的参考原件；ZIP 只保留本机，不公开推送第三方参考图。
 
 在 Blender 后台执行 `--python build_model.py`，再执行 `--python export_variants.py`。安装官方 `gltf-validator` npm 包后执行 `node validate_glb.cjs beijing-ncpa.glb beijing-ncpa-balanced.glb beijing-ncpa-compatible.glb`。执行 `--python render_all.py` 输出所有展示图。原始照片与图纸仅本地保存，未嵌入原创模型。
 
-发布和浏览器验收正在进行；完成状态以 `delivery-verification.json` 和截图为准。
+已发布三种资产，Vercel 自动部署成功；HTTP 200、GLB MIME、CORS 与本地／线上 SHA-256 均已核对。Chrome Geo 实际识别内嵌坐标、按北向加载，并能随北京时间昼夜切换发光通道。验收记录见 `delivery-verification.json` 和 `verification/README.md`。
+
+实际显示限制：当前 Geo 场景中，主版本细密钛板、扣件与钢架在中远景有像素闪烁；关闭太阳阴影后仍可观察到。兼容版的连续钛壳更平滑，玻璃细构件仍可能闪烁。本轮没有验证帧率或其他设备，也没有把文件验证等同于全部渲染质量通过。地球表面会遮挡负高度的下沉入口，完整展示该部分需要场景侧地表裁切；Cycles 展示图可以看到完整入口。资产 Emissive 受 Geo 统一昼夜控制，实际夜景与含人工灯和倒影的 Cycles 展示图有差异。

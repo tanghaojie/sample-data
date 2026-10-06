@@ -1,0 +1,173 @@
+{
+  "referencesRetainedLocally": true,
+  "thirdPartyMediaPublished": false,
+  "files": [
+    {
+      "file": "andreu-competition-section-1999.jpg",
+      "bytes": 36514,
+      "sha256": "430f03f851fb5b71ebacce3f529489488690ba95c66a66ceafb7ece98111bcc4",
+      "dimensions_px": [
+        800,
+        401
+      ]
+    },
+    {
+      "file": "architect-gallery-01.jpg",
+      "bytes": 146671,
+      "sha256": "df475d9c7cd64447f4745b8be35c70f06249a46a2afd95c1c4bb9046e79005fe",
+      "dimensions_px": [
+        1000,
+        665
+      ]
+    },
+    {
+      "file": "architect-gallery-02.jpg",
+      "bytes": 134974,
+      "sha256": "2b1cfd5971e16f58adcd121341f3d28d07ac45fbd51a17229023653a5be177ca",
+      "dimensions_px": [
+        563,
+        736
+      ]
+    },
+    {
+      "file": "architect-gallery-04.jpg",
+      "bytes": 136043,
+      "sha256": "dd96ab3bfe12c200b6c2dac5482735825c6d259e2184154c620e5b79aa4de64a",
+      "dimensions_px": [
+        1000,
+        750
+      ]
+    },
+    {
+      "file": "architect-gallery-05.jpg",
+      "bytes": 242662,
+      "sha256": "82d082a4447fd852945e77c3d678490c44764dd14ee2f0622ebc26887189cac7",
+      "dimensions_px": [
+        1000,
+        665
+      ]
+    },
+    {
+      "file": "architect-gallery-06.jpg",
+      "bytes": 185019,
+      "sha256": "e7736e31912ae16de3f3eef6ae9eaf7f94344a1e17647167381d11f4aa818e1b",
+      "dimensions_px": [
+        1000,
+        665
+      ]
+    },
+    {
+      "file": "architect-gallery-07.jpg",
+      "bytes": 301276,
+      "sha256": "0dcef709d1e6b5e7bfca4726c6cacee27405a21532ffa81d098ef9a95d60a635",
+      "dimensions_px": [
+        1000,
+        750
+      ]
+    },
+    {
+      "file": "architect-gallery-08.jpg",
+      "bytes": 98585,
+      "sha256": "10fc93984f3ce2ee422ec31a04453ab85390f3f0d2e61449cc5bdb14021e8525",
+      "dimensions_px": [
+        502,
+        750
+      ]
+    },
+    {
+      "file": "architect-gallery-09.jpg",
+      "bytes": 103071,
+      "sha256": "04eb709e8555f4333f9dc8b79b86dbcc92a1370a6e72054555ad3262e1950d88",
+      "dimensions_px": [
+        530,
+        687
+      ]
+    },
+    {
+      "file": "architect-gallery-10.jpg",
+      "bytes": 108763,
+      "sha256": "31b203eb4b7dbfe11f9a8237bdff5250f8816535354650e158ab8e1bf6a88e12",
+      "dimensions_px": [
+        547,
+        750
+      ]
+    },
+    {
+      "file": "architectural-record-2008.pdf",
+      "bytes": 4103638,
+      "sha256": "646a725556a755cc61729535c91adaf5db4b4d10e781dfe80a715e9055b83643"
+    },
+    {
+      "file": "night-asiasociety-sprengben.jpg",
+      "bytes": 205974,
+      "sha256": "3f62af51fb5aa2e3c3871784dc564901887d5405b9e6036b117157cab4d7e3af",
+      "dimensions_px": [
+        640,
+        389
+      ]
+    },
+    {
+      "file": "publication-p1-image1.png",
+      "bytes": 2907985,
+      "sha256": "25f6a94fa6fb86120e887565150a25ca8f301fc848ec73274ae72663f6ed9a16",
+      "dimensions_px": [
+        1683,
+        2048
+      ]
+    },
+    {
+      "file": "publication-p2-image1.png",
+      "bytes": 4239526,
+      "sha256": "b041894bce08069a00597645bc9e250f74bfc4639c3870a737546c7368298891",
+      "dimensions_px": [
+        1688,
+        2048
+      ]
+    },
+    {
+      "file": "publication-p3-image1.png",
+      "bytes": 2931484,
+      "sha256": "e7a0134767de60ff62743bd9b806dddfcc8082bc460be1bcdc254dc99fb5f57a",
+      "dimensions_px": [
+        1681,
+        2048
+      ]
+    },
+    {
+      "file": "publication-p4-image1.png",
+      "bytes": 2562940,
+      "sha256": "f227f2144dba254a511adcc641f2d0a8309fcb8298c9e063f0754ed7137de96c",
+      "dimensions_px": [
+        1685,
+        2048
+      ]
+    },
+    {
+      "file": "publication-p5-image1.png",
+      "bytes": 4611455,
+      "sha256": "ad481a079cc0741d4ca0f59d4a0f4c17291338a1df6deeb2651598729d8fb403",
+      "dimensions_px": [
+        1667,
+        2048
+      ]
+    },
+    {
+      "file": "publication-p6-image1.png",
+      "bytes": 4509607,
+      "sha256": "5b62ae32165acfe2afb5520ebcc50c24ecdcd0038976076c4b8bf33ad0b0ac48",
+      "dimensions_px": [
+        1693,
+        2048
+      ]
+    },
+    {
+      "file": "publication-p7-image1.png",
+      "bytes": 3780206,
+      "sha256": "93dace9188ac48edda7c5c3a18b8e7903a4e0ad51a7f44d39cd6eb8625b58263",
+      "dimensions_px": [
+        1710,
+        2048
+      ]
+    }
+  ]
+}

@@ -2,6 +2,8 @@
 
 检索与下载日期：2026-10-07（Asia/Singapore）。图片与出版物为建模核对资料，版权归原作者，仅保留在用户本机，不随原创模型公开推送。原始下载 URL 见 `download-manifest.json`。
 
+本地已保存 19 个图片／PDF 原件（含完整出版页面提取图）；尺寸、字节及 SHA-256 见 `local-file-inventory.json`。它们随本机完整验收 ZIP 保留，公开仓库仅包含出处与文件清单。
+
 | 本地文件 | 来源与核对用途 |
 | --- | --- |
 | `architect-gallery-01.jpg` | [ArchDaily / Paul Andreu 建筑师提供项目资料](https://www.archdaily.com/1218/national-grand-theater-of-china-paul-andreu)，壳体、玻璃渐开曲线、水池及分区墙实景 |

@@ -1,0 +1,78 @@
+{
+  "repository": "https://github.com/tanghaojie/sample-data",
+  "publishedCommit": "87083a91c1183ec6ef29aabd8575ffe20a2acddc",
+  "vercelState": "success",
+  "deploymentUrl": "https://vercel.com/tanghaojies-projects/sample-data/2LbN7dcXEQNHtcUmVrWAd9FUDutw",
+  "assets": [
+    {
+      "filename": "beijing-ncpa.glb",
+      "url": "https://sample-data-jt.vercel.app/beijing-ncpa/beijing-ncpa.glb",
+      "httpStatus": 200,
+      "mime": "model/gltf-binary",
+      "cors": "*",
+      "bytes": 37783840,
+      "sha256": "8ab27bf15fd6b21aeaf605ce571085f6a3c5bdd6044406f48030acad9be1dc81",
+      "localRemoteHashMatch": true
+    },
+    {
+      "filename": "beijing-ncpa-balanced.glb",
+      "url": "https://sample-data-jt.vercel.app/beijing-ncpa/beijing-ncpa-balanced.glb",
+      "httpStatus": 200,
+      "mime": "model/gltf-binary",
+      "cors": "*",
+      "bytes": 27144192,
+      "sha256": "3c7f839780c7ab3a45be97faed0da852c9dd41d160873719c290b681ab87a6da",
+      "localRemoteHashMatch": true
+    },
+    {
+      "filename": "beijing-ncpa-compatible.glb",
+      "url": "https://sample-data-jt.vercel.app/beijing-ncpa/beijing-ncpa-compatible.glb",
+      "httpStatus": 200,
+      "mime": "model/gltf-binary",
+      "cors": "*",
+      "bytes": 12101972,
+      "sha256": "a97a5db26b2b14209b20b414ad29a61c48238cada7afdb3d45987d2ba8c94741",
+      "localRemoteHashMatch": true
+    }
+  ],
+  "verifiedAtUtc": "2026-10-06T17:26:57.299385+00:00",
+  "browserVerification": {
+    "status": "verified_with_limitations",
+    "url": "https://cyber-sight-geo.vercel.app/geo.html",
+    "primaryAssetRevision": "87083a91c1183ec6ef29aabd8575ffe20a2acddc",
+    "primaryAssetUrl": "https://sample-data-jt.vercel.app/beijing-ncpa/beijing-ncpa.glb?v=87083a9",
+    "wgs84ModelCoordinateDialog": true,
+    "locationApproximate": [
+      116.38355,
+      39.90334
+    ],
+    "loadedHeight_m": 0,
+    "scale": 1,
+    "headingPitchRoll": [
+      0,
+      0,
+      0
+    ],
+    "orientation": "Visual alignment with current satellite imagery; north arrival faces north, not survey verification.",
+    "daySimulationTime": "2026-10-07 12:03:08 GMT+8",
+    "nightSimulationTime": "2026-10-07 21:59:07 GMT+8",
+    "dayEmissiveOff": true,
+    "nightEmissiveOn": true,
+    "runtimeEmissiveStrengthGroupsAdapted": 3,
+    "sunShadowsRestoredOn": true,
+    "screenshots": [
+      "verification/geo-metadata.jpg",
+      "verification/geo-day.jpg",
+      "verification/geo-day-shadow-off.jpg",
+      "verification/geo-night.jpg"
+    ],
+    "compatibleEarlierRevisionScreenshot": "verification/geo-compatible-day.jpg",
+    "limitations": [
+      "Dense titanium panel joints, fasteners and curtain steel exhibit pixel shimmer in middle/far views; observed also with sun shadows off. Root cause not fully established.",
+      "Negative-height entrance geometry is occluded by the globe surface; a scene clipping setup is needed for complete visibility.",
+      "Cycles artificial-light illumination and self-reflection do not prove equal real-time Geo lighting.",
+      "FPS, surveyed location error and other devices were not verified."
+    ],
+    "verifiedAtUtc": "2026-10-06T17:37:36.382572+00:00"
+  }
+}

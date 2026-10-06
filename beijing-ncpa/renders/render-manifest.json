@@ -1,0 +1,71 @@
+{
+  "renderer": "Blender 5.2.1 LTS / Cycles CPU / 32 samples / denoised",
+  "sourceBlendSha256": "e9b1bf03a611ee95a5c780644140f687ff191fd769760750dc6900a22e8a48d9",
+  "modelGlbSha256": "8ab27bf15fd6b21aeaf605ce571085f6a3c5bdd6044406f48030acad9be1dc81",
+  "files": [
+    {
+      "file": "renders/day.png",
+      "bytes": 2664806,
+      "sha256": "5604ac28f9eb4cb97beedd3327dcf46e804ac655aab00ff8235e6534d25a7fc3",
+      "dimensions_px": [
+        1800,
+        1200
+      ]
+    },
+    {
+      "file": "renders/night.png",
+      "bytes": 2736851,
+      "sha256": "93d6a1c2bd1fa71cf3a0d1c9b3410b9c733e5542bf39e8299806182b410b0d01",
+      "dimensions_px": [
+        1800,
+        1200
+      ]
+    },
+    {
+      "file": "renders/sunset.png",
+      "bytes": 2718769,
+      "sha256": "88b98f407ea78a5d7784d67bd5d21ca6b8dfb420bdcce0f075128a798a32ac4c",
+      "dimensions_px": [
+        1800,
+        1200
+      ]
+    },
+    {
+      "file": "renders/aerial.png",
+      "bytes": 2869447,
+      "sha256": "04e211e91e3ebdfff01cc5ae475288a85d0895d131f8903ed897ad7e6ef1412f",
+      "dimensions_px": [
+        1800,
+        1200
+      ]
+    },
+    {
+      "file": "renders/detail.png",
+      "bytes": 3246902,
+      "sha256": "b21dde1ca62100b82bcd0f722c7724cf0698fe61fb0c86bdea0be1cd154cc7a4",
+      "dimensions_px": [
+        1800,
+        1200
+      ]
+    },
+    {
+      "file": "renders/entrance.png",
+      "bytes": 2923665,
+      "sha256": "49e7f773d8bf6ee5ad02332c6cddf33cf0a69bfaba7fcfe8c2b4996d89885d82",
+      "dimensions_px": [
+        1800,
+        1200
+      ]
+    },
+    {
+      "file": "renders/elevation.png",
+      "bytes": 2596222,
+      "sha256": "df2ac84f3ab54aefed2d1cc63d0968769733c1b882c5cf3e2b313edc4975d731",
+      "dimensions_px": [
+        1800,
+        1200
+      ]
+    }
+  ],
+  "scope": "Presentation images with artificial lighting and self-reflection; distinct from Geo browser proof."
+}
