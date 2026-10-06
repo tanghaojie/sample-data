@@ -30,7 +30,7 @@
 
 ## 材质与昼夜
 
-标准 glTF metallic-roughness PBR。裸钛使用 metallic=1 和拉丝粗糙度；玻璃为 metallic=0，独立 alpha BLEND、轻微板间变化和 clearcoat，水面为介电材质。透明玻璃是便于当前引擎显示的近似，未依赖不支持的 Transmission／Volume。石材、木材、草地含原创 256 px 平铺颜色、粗糙度与 OpenGL +Y 法线图，石材以 1 m 模块 UV 重复；树冠用空间形态和多种颜色。所有引用纹理的 primitive 具有 UV，法线贴图网格保留匹配切线。19 张图像自包含于 GLB，纹理源在 `textures/` 及 `.blend` 内。
+标准 glTF metallic-roughness PBR。裸钛使用 metallic=1 和拉丝粗糙度；玻璃为 metallic=0，独立 alpha BLEND、轻微板间变化和 clearcoat，水面为介电材质。透明玻璃是便于当前引擎显示的近似，未依赖不支持的 Transmission／Volume。石材、木材、草地含原创 256 px 平铺颜色、粗糙度与 OpenGL +Y 法线图，石材以 1 m 模块 UV 重复；树冠用空间形态和多种颜色。所有引用纹理的 primitive 具有 UV，法线贴图网格保留匹配切线。19 张图像自包含于 GLB，纹理源在 `textures/` 及 `.blend` 内。钛板接缝衬底退入壳面约 0.6 m，避免近共面表面竞争深度；兼容版以单层连续金属面替代钛板和衬底。
 
 屋面星点、歌剧院金色背光、环廊线灯与到达区灯具为四组独立 Emissive 夜景通道，白天由 Geo 关闭，日落渐变，夜间开启。没有资产内置时钟、动态随机灯光或导出的灯光、相机、摄影棚地面。Cycles 展示灯会产生真实受光和水面倒影；Geo 的 Emissive 不等同于照亮周围地面，动态环境反射也不自动含本建筑或邻楼。两者的视觉验收记录分开。
 
@@ -41,6 +41,7 @@
 - `beijing-ncpa.blend`：可编辑分组、纹理和摄影机／灯光。
 - `build_model.py`：确定性原创建模及主资产导出。
 - `export_variants.py`：从同一源工程生成两个轻量版本。
+- `export_primary.py`：从保存的源工程重导出主版本。
 - `finalize_glb.py`：只移除未使用的切线流并重排内嵌 buffer；不改变材质和外观。
 - `render_preview.py`、`render_all.py`：Cycles 昼、夜、日落、鸟瞰、材质近景、入口与正立面图。
 - `validate_glb.cjs`、`*-khronos.json`、`validation.json`：官方验证、尺寸、纹理、朝向、定位和依赖检查。

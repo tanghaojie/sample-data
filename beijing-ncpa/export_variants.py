@@ -19,6 +19,12 @@ for quality in ['balanced','compatible']:
                 remove.append(ob);continue
             if quality=='compatible' and name=='Shell joint backing':
                 ob.data.materials.clear();ob.data.materials.append(bpy.data.materials['Titanium | brushed silver 3'])
+                # This sole titanium skin replaces the detailed panels; return it to the envelope.
+                from mathutils import Vector
+                for vertex in ob.data.vertices:
+                    q=vertex.co
+                    normal=Vector((q.x/106.1**2,q.y/71.82**2,q.z/46.285**2)).normalized()
+                    vertex.co+=normal*.555
             factor=1
             if 'canopies' in name:factor=.40 if quality=='balanced' else .10
             elif any(s in name for s in ['mullions','structural','ribs','rail','gallery light','branches','columns','fascia']):factor=.6 if quality=='balanced' else .28

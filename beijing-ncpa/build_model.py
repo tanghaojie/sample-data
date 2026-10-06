@@ -217,11 +217,11 @@ for j in range(72):
             if j in [8,18,29,41,52,61] and i%11==3:
                 q=shell(tm,(a0+(a1-a0)*(f0+f1)/2),.04)
                 batch('Scattered star point glazing',cool,'01',True).sphere(q,(.12,.12,.12),4,6)
-        # Dark backing fills the separated panel joints without covering glass.
+        # Recessed roof substrate fills joints without near-coplanar depth conflicts in Geo.
         a0,a1=bounds(t0);b0,b1=bounds(t1)
         for i in range(100):
             f0=i/100;f1=(i+1)/100
-            batch('Shell joint backing',seam,'01',True).face([shell(t0,a0+(a1-a0)*f0,-.045),shell(t0,a0+(a1-a0)*f1,-.045),shell(t1,b0+(b1-b0)*f1,-.045),shell(t1,b0+(b1-b0)*f0,-.045)])
+            batch('Shell joint backing',seam,'01',True).face([shell(t0,a0+(a1-a0)*f0,-.6),shell(t0,a0+(a1-a0)*f1,-.6),shell(t1,b0+(b1-b0)*f1,-.6),shell(t1,b0+(b1-b0)*f0,-.6)])
 
 pane_count=0
 for north in [True,False]:

@@ -1,7 +1,7 @@
 {
   "filename": "beijing-ncpa.glb",
-  "bytes": 37783796,
-  "sha256": "1ef1504f7dd3e3c947860adba7d3733f4db5283e770c491b18393d3bda199f84",
+  "bytes": 37783840,
+  "sha256": "8ab27bf15fd6b21aeaf605ce571085f6a3c5bdd6044406f48030acad9be1dc81",
   "triangles": 521840,
   "vertices": 1024532,
   "meshes": 77,
@@ -90,5 +90,5 @@
     "warnings": 0,
     "infos": 48
   },
-  "verifiedAtUtc": "2026-10-06T17:03:36.214Z"
+  "verifiedAtUtc": "2026-10-06T17:25:29.731Z"
 }

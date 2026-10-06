@@ -1,8 +1,8 @@
 [
   {
     "filename": "beijing-ncpa.glb",
-    "bytes": 37783796,
-    "sha256": "1ef1504f7dd3e3c947860adba7d3733f4db5283e770c491b18393d3bda199f84",
+    "bytes": 37783840,
+    "sha256": "8ab27bf15fd6b21aeaf605ce571085f6a3c5bdd6044406f48030acad9be1dc81",
     "triangles": 521840,
     "vertices": 1024532,
     "meshes": 77,
@@ -91,12 +91,12 @@
       "warnings": 0,
       "infos": 48
     },
-    "verifiedAtUtc": "2026-10-06T17:03:36.214Z"
+    "verifiedAtUtc": "2026-10-06T17:25:29.731Z"
   },
   {
     "filename": "beijing-ncpa-balanced.glb",
-    "bytes": 27144148,
-    "sha256": "ac99646f8ef41db329ed94b0d7a9a8a788a777a7a7a0862122d091d7b7798d47",
+    "bytes": 27144192,
+    "sha256": "3c7f839780c7ab3a45be97faed0da852c9dd41d160873719c290b681ab87a6da",
     "triangles": 347256,
     "vertices": 724186,
     "meshes": 76,
@@ -185,12 +185,12 @@
       "warnings": 0,
       "infos": 47
     },
-    "verifiedAtUtc": "2026-10-06T17:03:37.858Z"
+    "verifiedAtUtc": "2026-10-06T17:25:31.420Z"
   },
   {
     "filename": "beijing-ncpa-compatible.glb",
-    "bytes": 12101904,
-    "sha256": "dc00ea7c24b2707ef99f58a5a8d3802fb6a836795835b8e391e0e725b117fcf7",
+    "bytes": 12101972,
+    "sha256": "a97a5db26b2b14209b20b414ad29a61c48238cada7afdb3d45987d2ba8c94741",
     "triangles": 137305,
     "vertices": 292429,
     "meshes": 62,
@@ -279,6 +279,6 @@
       "warnings": 0,
       "infos": 37
     },
-    "verifiedAtUtc": "2026-10-06T17:03:38.643Z"
+    "verifiedAtUtc": "2026-10-06T17:25:32.209Z"
   }
 ]
